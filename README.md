@@ -7,6 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
+<img width="956" height="560" alt="image" src="https://github.com/user-attachments/assets/b5349f3e-d2cb-4060-b285-e491eb33b25f" />
 
 ## What this project does
 
